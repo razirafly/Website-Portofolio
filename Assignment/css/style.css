@@ -1,4 +1,3 @@
-
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -27,7 +26,7 @@ body{
 	
 }
 .header{
-	background: url("../images/red_landscape.jpg") no-repeat center top;
+	background: url("https://storage.cloud.google.com/images_assignment/images/red_landscape.jpg") no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -219,16 +218,6 @@ nav a:focus {
 	font-size:14px;
 }
 
-
-
-
-/*	Strip
-/*-----------------------------------------------------------------------------------*/
-
-/*-----------------------------------------------------------------------------------*/
-/*	Animation effects
-/*-----------------------------------------------------------------------------------*/
-
 #portfoliolist .portfolio {
 	width: 24%;
 	display:none;
@@ -236,11 +225,6 @@ nav a:focus {
 	overflow:hidden;
 	margin: 0px 1% 2% 0;
 }
-div#portfoliolist {
-	padding: 20px 20px 0 20px;
-	background: url("../images/left.png") no-repeat;
-	background-size: 100% 100%;
-}	
 .portfolio-wrapper {
 	overflow:hidden;
 	position: relative !important;
@@ -402,7 +386,7 @@ padding:30px 0;
 .social-icon i{
 	width:40px;
 	height:40px;
-	background: url("../images/img-sprite.png") no-repeat 0px 0px;
+	background: url("https://storage.cloud.google.com/images_assignment/images/img-sprite.png") no-repeat 0px 0px;
 	display:inline-block;
 }
 .social-icon i:hover{
@@ -475,7 +459,7 @@ padding-bottom: 2em;
 	height: 48px;
 	border: none;
 	text-indent: 100%;
-	background: url("../images/to-top2.png") no-repeat 0px 0px;
+	background: url("https://storage.cloud.google.com/images_assignment/images/to-top2.png") no-repeat 0px 0px;
 }
     
     
